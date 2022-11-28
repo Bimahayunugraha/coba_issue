@@ -12,6 +12,9 @@ function App() {
 				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
 					Coba Issue
 				</a>
+				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+					Test Issue
+				</a>
 			</header>
 		</div>
 	);
